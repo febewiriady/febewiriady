@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 # About Me
 
 I graduated from UCSI University with B.Sc. (Hons) in Business Information Systems. I am keen to work in an industry that harnesses technological advancements to assist business development, through various facets. I am a resourceful and determined person. 
+
 My recent activity is completing a 3-months full-stack data analytics program with RevoU. From this, I learn on how to define business problems and how to use tools like spreadsheets, SQL, Python, and Tableau to process, analyze data and present our findings.
 
 ------
